@@ -1,0 +1,13 @@
+Package: com.dani.testt
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Danyar <Danyarkawa99@gmail.com>
+Filename: /testt.deb
+Size: 615,810
+MD5sum: 1A66BFCCEEA20B2E6AC4E28F7BCC8749
+SHA1: A84900CE7F2C8A2320D822F790983E7F9D1DCC1F
+SHA256: A84900CE7F2C8A2320D822F790983E7F9D1DCC1F
+Section: tweaks
+Description: free tweak
+Author: Danyar <Danyarkawa99@gmail>
+Name: Test
